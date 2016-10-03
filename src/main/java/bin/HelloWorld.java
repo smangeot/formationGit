@@ -1,5 +1,6 @@
 package bin;
 
+// Classe disant bonjour
 public class HelloWorld {
 
     private static final String getHelloString() {
